@@ -1,0 +1,4 @@
+.clangd
+*.exe
+*.o
+compile_commands.json
